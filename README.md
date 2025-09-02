@@ -33,7 +33,7 @@ This dashboard represents Blinkit (India's Last Minute App) sales performance an
 6. Keep an eye what strategy gives us huge benefit in 2017 to 2020.Make strategy according to it that what features peoples like and what are disliked most.
 
 
-# Dashboard Preview
+## Dashboard Preview
 ! [Dashboard Preview](https://github.com/Humna241/Blinkit-Grocery-Store-Analysis/blob/main/Blinkit%20sales%20dashboard.PNG)
 
 
