@@ -34,6 +34,6 @@ This dashboard represents Blinkit (India's Last Minute App) sales performance an
 
 
 ## Dashboard Preview
-! [Dashboard Preview](https://github.com/Humna241/Blinkit-Grocery-Store-Analysis/blob/main/Blinkit%20sales%20dashboard.PNG)
+![Dashboard Preview](https://github.com/Humna241/Blinkit-Grocery-Store-Analysis/blob/main/Blinkit%20sales%20dashboard.PNG)
 
 
